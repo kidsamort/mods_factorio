@@ -1,0 +1,251 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-visualizer",
+      "enabled": true
+    },
+    
+    {
+      "name": "big_power_poles_patched",
+      "enabled": true
+    },
+    
+    {
+      "name": "biterexpansionnotifier",
+      "enabled": true
+    },
+    
+    {
+      "name": "blueprint-sandboxes",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "CharacterModHelper",
+      "enabled": true
+    },
+    
+    {
+      "name": "CleanFloor",
+      "enabled": true
+    },
+    
+    {
+      "name": "crafting-queue-enhancements",
+      "enabled": true
+    },
+    
+    {
+      "name": "CursorEnhancements",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorissimo-2-notnotmelon",
+      "enabled": true
+    },
+    
+    {
+      "name": "FactorySearch",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "flow-config",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "HuTaoSkin",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "InserterVisualizerLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "James-Train-Mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry_stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "lane-balancers",
+      "enabled": true
+    },
+    
+    {
+      "name": "Lighted-Poles-Plus",
+      "enabled": true
+    },
+    
+    {
+      "name": "loaders-modernized",
+      "enabled": true
+    },
+    
+    {
+      "name": "LSlib_James_Fork",
+      "enabled": true
+    },
+    
+    {
+      "name": "minime",
+      "enabled": true
+    },
+    
+    {
+      "name": "oarc-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Pi-C_lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "productions-per-minute",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "reverse-factory",
+      "enabled": true
+    },
+    
+    {
+      "name": "RPGsystem",
+      "enabled": true
+    },
+    
+    {
+      "name": "signal-display",
+      "enabled": true
+    },
+    
+    {
+      "name": "simpleadjustableinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "StatsGui",
+      "enabled": true
+    },
+    
+    {
+      "name": "stickyinserter",
+      "enabled": true
+    },
+    
+    {
+      "name": "stickyloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "toolbars-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "underground-storage-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "ViidisElectricOffshorePump",
+      "enabled": true
+    },
+    
+    {
+      "name": "virtual-signals2",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    
+    {
+      "name": "water-poles",
+      "enabled": true
+    },
+    
+    {
+      "name": "Water_Ores",
+      "enabled": true
+    }
+  ]
+}
