@@ -29,7 +29,17 @@
     },
     
     {
+      "name": "accumulator-walls",
+      "enabled": true
+    },
+    
+    {
       "name": "belt-visualizer",
+      "enabled": true
+    },
+    
+    {
+      "name": "better-train-system",
       "enabled": true
     },
     
@@ -84,7 +94,22 @@
     },
     
     {
+      "name": "factory-efficiency-tracker",
+      "enabled": true
+    },
+    
+    {
       "name": "FactorySearch",
+      "enabled": true
+    },
+    
+    {
+      "name": "faster-robots",
+      "enabled": true
+    },
+    
+    {
+      "name": "fcpu",
       "enabled": true
     },
     
@@ -124,6 +149,11 @@
     },
     
     {
+      "name": "k2-wind-turbine",
+      "enabled": true
+    },
+    
+    {
       "name": "kry_stdlib",
       "enabled": true
     },
@@ -140,6 +170,11 @@
     
     {
       "name": "loaders-modernized",
+      "enabled": true
+    },
+    
+    {
+      "name": "longer-belts-redux",
       "enabled": true
     },
     
@@ -189,7 +224,22 @@
     },
     
     {
+      "name": "Silicon",
+      "enabled": true
+    },
+    
+    {
       "name": "simpleadjustableinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "solar-walls",
+      "enabled": true
+    },
+    
+    {
+      "name": "StableFoundations",
       "enabled": true
     },
     
