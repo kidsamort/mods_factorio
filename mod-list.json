@@ -34,6 +34,11 @@
     },
     
     {
+      "name": "AsphaltRoadsPatched",
+      "enabled": true
+    },
+    
+    {
       "name": "belt-visualizer",
       "enabled": true
     },
@@ -55,6 +60,11 @@
     
     {
       "name": "blueprint-sandboxes",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bottleneck",
       "enabled": true
     },
     
@@ -149,6 +159,11 @@
     },
     
     {
+      "name": "JQuality",
+      "enabled": true
+    },
+    
+    {
       "name": "k2-wind-turbine",
       "enabled": true
     },
@@ -174,6 +189,11 @@
     },
     
     {
+      "name": "locale_ru",
+      "enabled": true
+    },
+    
+    {
       "name": "longer-belts-redux",
       "enabled": true
     },
@@ -194,12 +214,22 @@
     },
     
     {
+      "name": "PersonalTransformer2",
+      "enabled": true
+    },
+    
+    {
       "name": "Pi-C_lib",
       "enabled": true
     },
     
     {
       "name": "productions-per-minute",
+      "enabled": true
+    },
+    
+    {
+      "name": "ProductivityResearchForEveryone",
       "enabled": true
     },
     
@@ -295,6 +325,11 @@
     
     {
       "name": "Water_Ores",
+      "enabled": true
+    },
+    
+    {
+      "name": "zithorian-extra-storage-tanks-port",
       "enabled": true
     }
   ]
